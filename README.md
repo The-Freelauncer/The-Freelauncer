@@ -15,4 +15,9 @@ Dedicated programmer with strong expertise in Python, Java, SQL, and Cyber secur
 ---
 [![](https://visitcount.itsvg.in/api?id=The-Freelauncer&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 🎯 TryHackMe Stats : 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/piyushdutta0007.png" alt="Your Image Badge" />
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
