@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dedicated programmer with strong expertise in Python, Java, SQL, and Cyber security. <br>Highly organised with a clear, positive approach to challenges and solutions. <br>Particularly skilled in Cyber security, with a keen focus on safeguarding systems and data while building intelligent, reliable solutions. <br>Seeking to apply technical expertise to contribute to organisational success, while leveraging Artificial Intelligence and Cyber security to solve complex problems and drive innovation.
+Dedicated programmer with strong expertise in Python, SQL and Cyber security. <br>Highly organised with a clear, positive approach to challenges and solutions. <br>Particularly skilled in Cyber security, with a keen focus on safeguarding systems and data while building intelligent, reliable solutions. <br>Seeking to apply technical expertise to contribute to organisational success, while leveraging Artificial Intelligence and Cyber security to solve complex problems and drive innovation.
 
 
 ## 🌐 Socials:
