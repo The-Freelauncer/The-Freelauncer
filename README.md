@@ -1,5 +1,5 @@
 # 💫 About Me:
-Armed Forces Enthusiast<br>Cyber Security Aspirant <br>Top 3% on TryHackme <br>Vulnerability Assessment Penetration Tester (VAPT)
+Armed Forces Enthusiast<br>Aspiring AI Security Engineer <br>Top 3% on TryHackme <br>Vulnerability Assessment Penetration Tester (VAPT)
 
 
 ## 🌐 Socials:
